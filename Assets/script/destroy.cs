@@ -15,5 +15,6 @@ public class destroy : MonoBehaviour
     {
         Destroy(other.gameObject);
         Application.LoadLevel("lvl3");
+      
     }
 }
